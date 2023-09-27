@@ -41,6 +41,3 @@ The app will be running at [http://localhost:3000](http://localhost:3000). Open 
 
 Contributions are welcome! Feel free to open issues, create pull requests, or suggest improvements to make this Todo List app even better.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
